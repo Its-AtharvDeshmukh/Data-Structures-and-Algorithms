@@ -41,6 +41,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0001-two-sum](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0011-container-with-most-water/) | Medium |
 | [0066-plus-one](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [3731-find-missing-elements](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -71,4 +72,12 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0011-container-with-most-water/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
