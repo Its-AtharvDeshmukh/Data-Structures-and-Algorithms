@@ -56,6 +56,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0066-plus-one/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +81,8 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
