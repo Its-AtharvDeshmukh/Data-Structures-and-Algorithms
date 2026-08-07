@@ -85,4 +85,20 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
