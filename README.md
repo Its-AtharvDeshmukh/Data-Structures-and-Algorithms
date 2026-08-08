@@ -56,6 +56,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0066-plus-one/) | Easy |
+| [0342-power-of-four](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0342-power-of-four/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0342-power-of-four](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0342-power-of-four/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +119,8 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
