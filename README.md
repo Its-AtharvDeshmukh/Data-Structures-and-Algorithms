@@ -40,6 +40,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [3731-find-missing-elements](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3731-find-missing-elements/) | Easy |
@@ -71,6 +72,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,10 +97,12 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -127,4 +131,8 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0342-power-of-four/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
