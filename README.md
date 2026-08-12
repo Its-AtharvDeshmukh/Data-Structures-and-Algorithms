@@ -41,6 +41,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0001-two-sum](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
+| [0051-n-queens](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
@@ -142,4 +143,12 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0051-n-queens/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
