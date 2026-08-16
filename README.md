@@ -46,6 +46,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0074-search-a-2d-matrix](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0414-third-maximum-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0414-third-maximum-number/) | Easy |
+| [0704-binary-search](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0704-binary-search/) | Easy |
 | [3731-find-missing-elements](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0704-binary-search](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0704-binary-search/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
