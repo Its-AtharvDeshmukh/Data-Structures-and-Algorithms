@@ -130,6 +130,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0100-same-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,11 +138,13 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0100-same-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +152,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0100-same-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
