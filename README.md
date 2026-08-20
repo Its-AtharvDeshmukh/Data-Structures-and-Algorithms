@@ -47,6 +47,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0088-merge-sorted-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0414-third-maximum-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0414-third-maximum-number/) | Easy |
 | [0704-binary-search](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0704-binary-search/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -173,4 +174,8 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
