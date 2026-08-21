@@ -64,6 +64,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0066-plus-one/) | Easy |
 | [0342-power-of-four](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0342-power-of-four/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
