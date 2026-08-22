@@ -45,6 +45,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0066-plus-one](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0414-third-maximum-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0414-third-maximum-number/) | Easy |
 | [0704-binary-search](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0704-binary-search/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -86,6 +87,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0042-trapping-rain-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0704-binary-search/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -158,6 +161,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0342-power-of-four/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -179,4 +183,12 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
