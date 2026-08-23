@@ -10,7 +10,7 @@ class Solution {
                                        map.get(current),i
                                    };
             }
-            map.put(nums[i] , i);
+            map .put(nums[i] , i);
         }
 
         return new int [] {-1, -1};
