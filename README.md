@@ -47,6 +47,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0088-merge-sorted-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0414-third-maximum-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0414-third-maximum-number/) | Easy |
+| [0506-relative-ranks](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0561-array-partition/) | Easy |
 | [0704-binary-search](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0704-binary-search/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -62,6 +63,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0414-third-maximum-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0414-third-maximum-number/) | Easy |
+| [0506-relative-ranks](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0561-array-partition/) | Easy |
 | [3731-find-missing-elements](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
@@ -203,4 +205,8 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0561-array-partition/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0506-relative-ranks](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0506-relative-ranks/) | Easy |
 <!---LeetCode Topics End-->
