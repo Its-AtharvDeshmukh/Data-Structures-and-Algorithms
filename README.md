@@ -62,6 +62,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0148-sort-list/) | Medium |
 | [0414-third-maximum-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0414-third-maximum-number/) | Easy |
 | [0506-relative-ranks](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0561-array-partition/) | Easy |
@@ -78,6 +79,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0148-sort-list](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
@@ -93,6 +95,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0011-container-with-most-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Greedy
@@ -209,4 +212,12 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0506-relative-ranks/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
