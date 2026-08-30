@@ -50,6 +50,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0506-relative-ranks](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0561-array-partition/) | Easy |
 | [0704-binary-search](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0704-binary-search/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -103,6 +104,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0561-array-partition/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
