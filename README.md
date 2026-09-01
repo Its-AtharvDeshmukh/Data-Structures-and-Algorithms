@@ -40,6 +40,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0066-plus-one/) | Easy |
@@ -94,6 +95,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0148-sort-list/) | Medium |
