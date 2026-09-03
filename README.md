@@ -75,6 +75,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0007-reverse-integer](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0066-plus-one/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0342-power-of-four](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0342-power-of-four/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Linked List
@@ -131,6 +132,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
+| [0096-unique-binary-search-trees](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -170,6 +173,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -224,4 +228,8 @@ This repository is kept systematic and organized through a clean, automated pipe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0148-sort-list/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
