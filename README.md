@@ -130,6 +130,7 @@ This repository is kept systematic and organized through a clean, automated pipe
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,11 +145,13 @@ This repository is kept systematic and organized through a clean, automated pipe
 | [0094-binary-tree-inorder-traversal](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/Its-AtharvDeshmukh/Data-Structures-and-Algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
