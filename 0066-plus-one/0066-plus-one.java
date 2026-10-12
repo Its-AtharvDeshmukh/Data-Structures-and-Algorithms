@@ -5,9 +5,7 @@ class Solution {
         int n = digits.length;
 
         // 1. Loop from the last digit to the first
-
         for (int i = n - 1; i >= 0; i--) {
-
             // 2. Increment the digit
             digits[i]++;
 
@@ -21,8 +19,8 @@ class Solution {
             digits[i] = 0;
         }
 
-            // 5. If the loop finishes, all digits were 9s (like [9, 9]).
-            //    We need a new, larger array like [1, 0, 0].
+        // 5. If the loop finishes, all digits were 9s (like [9, 9]).
+        //    We need a new, larger array like [1, 0, 0].
         int[] newResult = new int[n + 1];
         newResult[0] = 1;
         return newResult;
